@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JobSafariApplication<JobSafari>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.JobSafari.JobSafari.JobSafariApplication",
+            "projectName": "JobSafari",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
